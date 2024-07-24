@@ -25,7 +25,7 @@ body:
       description: Provide links to design layouts or prototypes if the task involves UI/UX design. This helps developers understand the visual and functional requirements.
     validations:
       required: false
-  - type: markdown
+  - type: textarea
     id: details
     attributes:
       label: Details
