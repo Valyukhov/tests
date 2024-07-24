@@ -28,7 +28,7 @@ body:
   - type: textarea
     id: details
     attributes:
-      label:
+      label: 
       value: |
         ### Evaluation criteria:
         1.
