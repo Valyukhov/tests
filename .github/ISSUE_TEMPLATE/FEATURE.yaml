@@ -18,7 +18,7 @@ body:
       description: Include examples or links to resources that will help understand the task (e.g., similar features, documentation, articles).
     validations:
       required: false
-  - type: textarea
+  - type: input
     id: layout
     attributes:
       label: Links to the layout
@@ -26,18 +26,19 @@ body:
     validations:
       required: false
   - type: markdown
-    id: others
+    id: details
     attributes:
-      value: |
+      label: Details
+      description: |
         ### Evaluation criteria:
         1.
-        2...
+        2.
         
         ### General solution:
         
         ### Implementation steps:
         1.
-        2….
+        2.
         
         ### New components and functions:
         
@@ -46,3 +47,5 @@ body:
         ### Tests:
         
         ### Additional information:
+    validations:
+      required: false
