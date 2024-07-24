@@ -79,7 +79,7 @@ body:
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
   - type: textarea
-    id: actual
+    id: solution
     attributes:
       label: The intended solution:
       description: Suggest a solution or a way to resolve the issue if you have one. This can be a proposed fix, a workaround, or any other recommendation that might help address the problem. If you are unsure of the solution, you can skip this section.
