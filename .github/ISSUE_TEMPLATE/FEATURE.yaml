@@ -3,7 +3,6 @@ description: Design and layout UI
 title: "[UI]: "
 labels: ["UI"]
 projects: ["Valyukhov/3"]
-assignees:
 body:
   - type: textarea
     id: description
