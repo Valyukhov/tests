@@ -28,7 +28,6 @@ body:
   - type: textarea
     id: details
     attributes:
-      label: Details
       value: |
         ### Evaluation criteria:
         1.
