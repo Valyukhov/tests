@@ -1,7 +1,6 @@
-name: UI feature
-description: Design and layout UI
-title: "[UI]: "
-labels: ["UI"]
+name: Testing
+description: Testing
+title: "[Testing]: "
 projects: ["Valyukhov/3"]
 body:
   - type: textarea
