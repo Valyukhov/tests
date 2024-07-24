@@ -21,7 +21,7 @@ body:
   - type: input
     id: layout
     attributes:
-      label: Links to the layout: (optional)
+      label: Links to the layout:
       description: Provide links to design layouts or prototypes if the task involves UI/UX design. This helps developers understand the visual and functional requirements.
     validations:
       required: false
