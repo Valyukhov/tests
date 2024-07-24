@@ -28,27 +28,7 @@ body:
   - type: textarea
     id: details
     attributes:
-      label: 
-      description: |
-        Fill in the following sections:
-        
-        ### Evaluation criteria:
-        1.
-        2.
-        
-        ### General solution:
-        
-        ### Implementation steps:
-        1.
-        2.
-        
-        ### New components and functions:
-        
-        ### Changes in components and functions:
-        
-        ### Tests:
-        
-        ### Additional information:
+      label: __________________________      
       value: |
         ### Evaluation criteria:
         1.
